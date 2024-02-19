@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://github.com/lannaetc/lannaetc/assets/160372431/5a637f2a-c45c-4b0f-8930-1d59c706b6b0" width="150px" />
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+Everyone,+My+name+is+Alana+S+Lima;I'm+18+years+old;I'm+from+Brazil;I+am+a+systems+analysis+and+development+academic;Be+Welcome!+:%29)](https://git.io/typing-svg)
