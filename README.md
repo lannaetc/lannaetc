@@ -9,9 +9,11 @@
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lannaetc&bg_color=000000&color=ffffff&line=420000&point=3d0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lannaetc&bg_color=080808&color=ffffff&line=420000&point=3d0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
+
+
 
 
 
